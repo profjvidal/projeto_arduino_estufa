@@ -1,5 +1,5 @@
 // C++ code
-// Projeto - Simulando uma Estufa
+// Projeto - Simulando um sistema básico para estufa
 
 
 // Pinos de conexão
